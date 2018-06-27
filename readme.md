@@ -1,3 +1,7 @@
+# This repository has been moved to [gitlab.com/paul-nechifor/fenrir-chat](http://gitlab.com/paul-nechifor/fenrir-chat).
+
+Old readme:
+
 # Fenrir Chat
 
 My first use of BSD sockets to build a chat program for use on the students'
